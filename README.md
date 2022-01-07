@@ -3,8 +3,8 @@
 <h2>This repository is for giving hands-on on</h2> 
 <OL>
 <LI>Verilog HDL</LI>
-<LI>Circuit Design using LTSpice</LI>
-<LI>ASIC Design using open source EDA Tools</LI>
-<LI>Digital design using FPGAs</LI>
-<LI>Mixed-signal design flow using open source EDA tools</LI>
+<LI>What is Standard Cells Library?</LI>
+<LI>Introduction to open source EDA Tools for ASIC design</LI>
+<LI>Standard cell based digital design using Verilog HDL</LI>
+
 </OL>
